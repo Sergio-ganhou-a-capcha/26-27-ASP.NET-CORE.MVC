@@ -5,3 +5,5 @@ docker compose up -d
 
 # Correr a aplicação
 dotnet run
+
+dotnet watch run
